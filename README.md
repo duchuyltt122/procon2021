@@ -18,5 +18,4 @@ submit kq:			(button POST)
 
 kết quả để submit cho challenge 14:
 0000000100000000
-
 0
