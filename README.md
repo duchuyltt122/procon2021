@@ -19,3 +19,7 @@ submit kq:			(button POST)
 kết quả để submit cho challenge 14:
 0000000100000000
 0
+
+
+Hiện máy em IP có vấn đề, ko POST được lên server, mặc dù xài GET bình thường, anh Thảo thử cái method POST giúp em. 
+Còn phần control xoay, di chuyển các button ảnh em chưa làm 
