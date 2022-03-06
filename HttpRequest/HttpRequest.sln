@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequest", "HttpRequest.csproj", "{D558DFFF-96C5-4AB9-932F-313F7411E08B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Procon2021", "..\Procon2021\Procon2021.vdproj", "{D5E38C0B-4C57-4958-B4D9-89F48F82B843}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{17087054-9795-45BC-921F-E4D15EA1C5F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,10 @@ Global
 		{D558DFFF-96C5-4AB9-932F-313F7411E08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D558DFFF-96C5-4AB9-932F-313F7411E08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D558DFFF-96C5-4AB9-932F-313F7411E08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E38C0B-4C57-4958-B4D9-89F48F82B843}.Debug|Any CPU.ActiveCfg = Debug
+		{D5E38C0B-4C57-4958-B4D9-89F48F82B843}.Release|Any CPU.ActiveCfg = Release
+		{17087054-9795-45BC-921F-E4D15EA1C5F1}.Debug|Any CPU.ActiveCfg = Debug
+		{17087054-9795-45BC-921F-E4D15EA1C5F1}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
